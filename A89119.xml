@@ -1,0 +1,943 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The spovse rejoycing over antichrist, and triumphing over the devill, in the day of the Lord, when God alone shal bee exalted. Written in the day and yeer, when the world is running besides it self, crying out against truth, in the hearing of truth; this mad world is beside it self, persecuting those which desire not to meddle with the world: I have found it, that the world cannot indure light, my experience makes it manifest. / Written by James Michel, who have been lately accused for blasphemy in the words which is Scripture; they say that this is blasphemy which the Scripture faith, My God, my God is a consuming fire, and everlasting burning: to this I shal rest to the proceeding further in the book.</title>
+            <author>Michel, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89119</idno>
+            <idno type="STC">Wing M1962</idno>
+            <idno type="STC">Thomason E1603_1</idno>
+            <idno type="STC">ESTC R208915</idno>
+            <idno type="EEBO-CITATION">99867833</idno>
+            <idno type="PROQUEST">99867833</idno>
+            <idno type="VID">170150</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89119)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170150)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 202:E1603[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The spovse rejoycing over antichrist, and triumphing over the devill, in the day of the Lord, when God alone shal bee exalted. Written in the day and yeer, when the world is running besides it self, crying out against truth, in the hearing of truth; this mad world is beside it self, persecuting those which desire not to meddle with the world: I have found it, that the world cannot indure light, my experience makes it manifest. / Written by James Michel, who have been lately accused for blasphemy in the words which is Scripture; they say that this is blasphemy which the Scripture faith, My God, my God is a consuming fire, and everlasting burning: to this I shal rest to the proceeding further in the book.</title>
+                  <author>Michel, James.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold in Cannons street, neer London-stone.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christianity --  Early works to 1800.</term>
+               <term>Antichrist --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170150:1" rendition="simple:additions"/>
+            <p>THE SPOVSE Rejoycing over ANTICHRIST, And triumphing over the DEVILL, In the Day of the Lord, when God alone ſhal bee EXALTED.</p>
+            <q>
+               <l>Then ſing my Love, then ſing my Dear,</l>
+               <l>Then ſing the truth, ſtand not in fear.</l>
+            </q>
+            <p>Written in the day and yeer, when the world is running beſides it ſelf, crying out againſt truth, in the hearing of truth; this mad world is beſide it ſelf, perſecuting thoſe which deſire not to meddle with the world: I have found it, that the world cannot indure light, my experience makes it manifeſt.</p>
+            <p>
+               <hi>Written by</hi> JAMES MICHEL,</p>
+            <p>Who have been lately accuſed for blaſphemy in the words which is Scripture; they ſay that this is blaſ<g ref="char:EOLhyphen"/>phemy which the Scripture ſaith, <hi>My God, my God is a conſuming fire, and everlasting burn<g ref="char:EOLhyphen"/>ing:</hi> to this I ſhal reſt to the proceed<g ref="char:EOLhyphen"/>ing further in the BOOK.</p>
+            <p>
+               <hi>London,</hi> Printed, and are to be ſold in <hi>Cannons ſtreet,</hi> neer <hi>London-ſtone.</hi> 1654.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:170150:2"/>
+            <pb facs="tcp:170150:2"/>
+            <head>A word to the patient Readers conſideration in ſeaſon, ſo I ſhal leave it to the Reader to judg a charitable judgment to the proceedings after.</head>
+            <p>A Meſſage to the world, which the world loves not, but rather is reviling againſt, the meſſinger which to me brings glad tydings, and therefore they are crying out againſt me, and accuſing me for putting times to the ſongs in my Book, entituled, <hi>the ſinging of Praiſes</hi> but now the cauſe of their malice againſt me, or perſecuting of me, therefore I ſhal ceaſe from that work of vanity, as they cal it, but rather pleaſe a fool in his folly; ſo at this time J am taken up in earneſt occaſion, that time wil not permit any longer to give babes meat, but rather ſhould feed them with milk, and give meat to ſtronger men, who is able to bear meat. But at this time J am called upon, or elſe I ſhould ſpeak a word or two to the Babes and ſuck<g ref="char:EOLhyphen"/>lings of the world, that cry blaſphemy, and know it not; they accuſe me for not ſetting my name to my book of Songs, which is entituled, <hi>the ſinging of Praiſes,</hi> and many ſuch falſe accuſations they have raiſed upon me for blaſphemy touching my life, but for my part. J do not wrong none of them all, neither did I ever blaſpheme, never in my life, but as they do accuſe me for not ſetting my name to my Book of Songs, I have proved them lyars, and <hi>I</hi> am not aſhamed of my name, <hi>I</hi> ſet my name to that book three times, and <hi>I</hi> would have them underſtand themſelves, nor miſtake me, and ſo <hi>I</hi> ſhal conclude this, which is Written by <hi>James Michel.</hi>
+            </p>
+         </div>
+         <div type="authors_note">
+            <pb facs="tcp:170150:3"/>
+            <head>A vindication of the Verſes in this Book.</head>
+            <p>THat he that rejoyceth in the Lord, doth truly ſerve the Lord, for the Spouſe when they rejoyce it is in the knowledge that they received of the Lord glorifying the eternal God; for thoſe that glorifie the eternal God, doe truly ſerve God; but the property of meaning, which the Scripture holds forth, that the true ſervice in the ſerving of God is the Spouſe with <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſus Chriſt,</hi> rejoycing in the Lord to the excellency of the moſt high <hi>God:</hi> in that true ſorvice when they ſerve <hi>God</hi> royally and truly in the ſin<g ref="char:EOLhyphen"/>cerity of the heart, they may ſafely rejoice over Antichriſt, and may truly and freely triumph over the Devil, over Death, over Hel, and over Damnation. And this the Spouſe and thoſe that do truly ſerve the Lord, may re<g ref="char:EOLhyphen"/>joyce over theſe things, and ſay, <hi>O death where is thy ſting! O grave where is thy victory! for</hi> thoſe that know the moſt high God, will, glorifie that true God the Lord of beaven and earth, that mighty King of Iſrael whoſe name is glorious; Then you need not ſtand in fear of this Devil, Hell, death or damnation, but may ſing all honour glory and praiſe be given to the eternal <hi>God,</hi> the Lord of beſt that is his name, this Lord knows what my will is, that I may freely ſay as the ſpouſe ſaith, that I will ſerve the Lord before the face of his enemies, and by the love of the everlaſting <hi>God</hi> and his glorious power, if wee truly ſerve him we may truly rejoyce in him, and ſing with him, triumph with him over his enemies in ſpight of the Devils face; and in this ſervice of the Lord, as wee finde his love manifeſted to us, ſo he will ſpeak in us freely above tribulation, ſinging peace with
+<pb facs="tcp:170150:3"/>him, and living in reſt, ſo we ſhal according at hee makes himſelf manifeſt to us, we ſhall ſay, then Devil do thy worſt, for we know our <hi>God</hi> is an everlaſting <hi>God,</hi> who will bear us on with love, and carry us from all our enemies that do oppoſe the Lord Ieſus, ſo we ſhall freely be carried forth of trouble, and live in ſilence for ever, and ſo I conclude,</p>
+            <closer>
+               <signed>IAMES MICHEL,</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poems">
+            <pb n="8" facs="tcp:170150:4"/>
+            <div type="poem">
+               <head>
+                  <hi>The</hi> SPOVSE <hi>rejoycing over Antichriſt.</hi>
+               </head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>THis is Gods love I ſee,</l>
+                  <l>Taking away the curſe,</l>
+                  <l>but here I'le ſtay</l>
+                  <l>and ſing with joy,</l>
+                  <l>Then Devil do thy worſt.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>My ſorrows are flying away,</l>
+                  <l>They are flying with the enrſe,</l>
+                  <l>but here Ile ſtay</l>
+                  <l>and ſing with joy,</l>
+                  <l>Then Divil do thy worſt.</l>
+               </lg>
+               <lg n="3">
+                  <head>3,</head>
+                  <l>My body is brought home ſo clear</l>
+                  <l>And purely from the curſe.</l>
+                  <l>then here Ile ſtay</l>
+                  <l>and ſing with joy,</l>
+                  <l>Then Divil do thy worſt.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>My Religion is counted baſe,</l>
+                  <l>But it was as pure at firſt,</l>
+                  <l>but here Ile ſtay</l>
+                  <l>and ſing with joy,</l>
+                  <l>Then Divil do thy worſt.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>My life it is above,</l>
+                  <l>Tryumphing o're the curſe;</l>
+                  <l>which makes me ſtay</l>
+                  <l>and ſing with joy,</l>
+                  <l>Then Divil do thy worſt.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>The ſpouſe they are come home,</l>
+                  <l>As they were all at firſt,</l>
+                  <l>then here Ile ſtay</l>
+                  <l>
+                     <pb n="9" facs="tcp:170150:4"/>and ſing with joy,</l>
+                  <l>Then Devil do thy worſt.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>The Kingdom that it near,</l>
+                  <l>As it was at the firſt,</l>
+                  <l>which makes me ſtay</l>
+                  <l>and ſing with joy,</l>
+                  <l>Then Divil do thy worſt.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>But now I live with God,</l>
+                  <l>And he doth make me to ſee,</l>
+                  <l>it is his love with him above,</l>
+                  <l>which alone ſets me free,</l>
+                  <l>In glory for to be.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>This ſweet joy now is here,</l>
+                  <l>As his true love was at firſt,</l>
+                  <l>makes me to ſtay</l>
+                  <l>and ſing with ioy,</l>
+                  <l>Then Devil do thy worſt.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>This Fountain glory right,</l>
+                  <l>Which is his love to me,</l>
+                  <l>makes me to ſtay</l>
+                  <l>and ſing with ioy,</l>
+                  <l>My everlaſting reſt to be.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>The ſweetneſs of his love,</l>
+                  <l>Is the pureſt love I ſee,</l>
+                  <l>which makes me ſtay</l>
+                  <l>and ſing with ioy,</l>
+                  <l>When I am truly ſet free.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Now this ere I do tel,</l>
+                  <l>If that man could ſee</l>
+                  <l>when I do ſtay</l>
+                  <l>and ſing with ioy,</l>
+                  <l>This is ſweet harmony.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>The love which is my minde,</l>
+                  <l>
+                     <pb n="10" facs="tcp:170150:5"/>Three Kingdoms I ſee,</l>
+                  <l>this is the reſt</l>
+                  <l>that I finde beſt,</l>
+                  <l>Gods Kingdom now with me.</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>The time is not paſt,</l>
+                  <l>The curſe is ſweetly croft,</l>
+                  <l>with Gods love we are bleſt.</l>
+                  <l>as all this was at firſt,</l>
+                  <l>For the Devil had done his worſt.</l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>When we ſhall live in love.</l>
+                  <l>As we did all at firſt,</l>
+                  <l>then we ſhould ſtay</l>
+                  <l>and ſing with ioy.</l>
+                  <l>For the Devil had done his worſt.</l>
+               </lg>
+               <lg n="16">
+                  <head>16.</head>
+                  <l>Vnto my friend I write,</l>
+                  <l>He need not fear the Curſe,</l>
+                  <l>for here we ſhall ſtay</l>
+                  <l>and ſing with ioy,</l>
+                  <l>For the Devil had done eis worſt,</l>
+               </lg>
+               <byline>By James Michel,</byline>
+            </div>
+            <div type="poem">
+               <lg n="1">
+                  <head>1.</head>
+                  <l>March on March on,</l>
+                  <l>Saith my General in chief,</l>
+                  <l>He is my only dear,</l>
+                  <l>for he is ſe free</l>
+                  <l>and lives in me,</l>
+                  <l>A caſting out all fear.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>We march with him,</l>
+                  <l>We march with him.</l>
+                  <l>In Majeſty and grace,</l>
+                  <l>if willin be.</l>
+                  <l>he will make us ſee</l>
+                  <l>The heightneſs of his face.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>And this <hi>Jehovah</hi> is going on,</l>
+                  <l>With honour and renown,</l>
+                  <l>
+                     <pb n="11" facs="tcp:170150:5"/>for he lifts us up</l>
+                  <l>to his ſpiritual cup,</l>
+                  <l>And ſo he wears his crown</l>
+                  <l>In true love that he found,</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>He is the King</l>
+                  <l>The King of Kings,</l>
+                  <l>That King I do ſee,</l>
+                  <l>the King of reſt</l>
+                  <l>and of righteouſneſs</l>
+                  <l>And of true liberty.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>For he is above</l>
+                  <l>The Prieſt and Preachers all,</l>
+                  <l>who thinks themſelves ſo wiſe,</l>
+                  <l>to fill peoples ears full of din.</l>
+                  <l>And fills mens hearts with lies,</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>And this cheir ſnapping</l>
+                  <l>And ſnarling like,</l>
+                  <l>Like doggs a picking bones,</l>
+                  <l>For if they could ſe</l>
+                  <l>The Lord Ieſus</l>
+                  <l>At him they would throw ſtones.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>And theſe men ſot up tyrant laws,</l>
+                  <l>But I am ſure they could not ſtand,</l>
+                  <l>For they fight againſt the God of love,</l>
+                  <l>And the Lord of Iuſt command,</l>
+                  <l>His command is truth,</l>
+                  <l>That you ſhal ſee in reſt.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>But we'le march, we'le march,</l>
+                  <l>Saith our General in chief,</l>
+                  <l>We'le march into the field,</l>
+                  <l>When we meet then with our enemies</l>
+                  <l>Sweetly we will win the field.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>This which I do tell you now</l>
+                  <l>
+                     <pb n="12" facs="tcp:170150:6"/>Mark it very well.</l>
+                  <l>For when that you do ſinde true love.</l>
+                  <l>You ſhall hear who carries away the bell,</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Then hearken people, hearken all,</l>
+                  <l>Hearken what I do ſay,</l>
+                  <l>Then live in reſt, and in true peace,</l>
+                  <l>For our Lord God and <hi>Jehovah,</hi>
+                  </l>
+                  <l>Have truly won the day.</l>
+               </lg>
+               <p>Some certain miſtakes are paſt in theſe verſes, conclu<g ref="char:EOLhyphen"/>ded as an error for haſt, but it may be excuſed.</p>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>A Deſcription of love in true love, declared by</hi> James Michel,</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>When the trumpet ſounds his call,</l>
+                  <l>Then death and hell doth fall,</l>
+                  <l>For God he's all in all:</l>
+                  <l>Now reioyce, now reioyce.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Rejoyce in this thing,</l>
+                  <l>That God our only King.</l>
+                  <l>Salvation he doth bring.</l>
+                  <l>He makes me now to ſing.</l>
+                  <l>And rejoyce, and rejoyce.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Then be you not ſo ſad,</l>
+                  <l>For all you are ſo mad,</l>
+                  <l>Perſecuting ſo bad,</l>
+                  <l>For all that I am glad,</l>
+                  <l>And reioyce, and reioyce,</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>For this will be that happy day,</l>
+                  <l>When the lyon with the Lamb doth play,</l>
+                  <l>And caſt old things away,</l>
+                  <l>And reioyce and reioyce.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>For the ſtopping of the ear.</l>
+                  <l>
+                     <pb n="13" facs="tcp:170150:6"/>Is the cauſe of all fear,</l>
+                  <l>Brings deſolation hear,</l>
+                  <l>For God now he is near,</l>
+                  <l>Now reioyce, now reioyce.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Reioyce now with all.</l>
+                  <l>That death and hell do fall,</l>
+                  <l>For God he is all in all,</l>
+                  <l>Now reioyce, now reioyce.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>I glorifie my King,</l>
+                  <l>Glad tydings he doth bring,</l>
+                  <l>For he makes me now to ſing,</l>
+                  <l>And reioyce, and reioyce.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>When eternall fire do burn,</l>
+                  <l>Then Merchantry ſhall mourn,</l>
+                  <l>For I do live with one,</l>
+                  <l>And reioyce, and reioyce.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Theſe tidings I do ſee,</l>
+                  <l>For Chriſt have ſet me free,</l>
+                  <l>And he do ſing with me,</l>
+                  <l>now reioyce, now reioyce.</l>
+               </lg>
+               <lg n="10">
+                  <head>10</head>
+                  <l>It cometh from above,</l>
+                  <l>VVhen ſorrows they do move,</l>
+                  <l>Then we'le live in true love,</l>
+                  <l>And reioyce, and reioyce.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>The Kingdom is at hand,</l>
+                  <l>Where God will have command,</l>
+                  <l>No rebels there ſhall ſtand,</l>
+                  <l>Now reioyce, now reioyce.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>At this poor Righteous King.</l>
+                  <l>I ſee how they do ſling,</l>
+                  <l>Becauſe he doe make us ſwim.</l>
+                  <l>And reioyce, and reioyce.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>I ſwim unto my dear,</l>
+                  <l>
+                     <pb n="14" facs="tcp:170150:7"/>Who takes away all fear,</l>
+                  <l>And dwell with him ſo clear,</l>
+                  <l>And reioyce, and reioyce,</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>I do not ſwim for hire,</l>
+                  <l>Nor to ly in the mire,</l>
+                  <l>But home we will retire<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>Twas not a fleſhly King,</l>
+                  <l>That good to us did bring,</l>
+                  <l>Nor never made us ſing,</l>
+                  <l>Nor reioyce, nor reioyce.</l>
+               </lg>
+               <lg n="16">
+                  <head>16</head>
+                  <l>Nor yet the outward State,</l>
+                  <l>Nor Parliament of late,</l>
+                  <l>Did never make things ſweet,</l>
+                  <l>To reioyce, to reioyce.</l>
+               </lg>
+               <lg n="17">
+                  <head>17.</head>
+                  <l>Its this eternal King ſo neat,</l>
+                  <l>Is with us now compleat,</l>
+                  <l>A making all things ſweet,</l>
+                  <l>To reioyce, to reioyce,</l>
+               </lg>
+               <lg n="18">
+                  <head>18</head>
+                  <l>For he is in his throne,</l>
+                  <l>For all the world do frown</l>
+                  <l>His Glory is his own,</l>
+                  <l>Now reioyce, now rejoyce.</l>
+               </lg>
+               <lg n="19">
+                  <head>19.</head>
+                  <l>And to the Prieſt I call</l>
+                  <l>When <hi>Babylon</hi> ſhall fall,</l>
+                  <l>for we will be merry all.</l>
+                  <l>And reioyce, and reioyce.</l>
+                  <l>I tell it to the poor,</l>
+                  <l>I have deſtroyed the whore,</l>
+                  <l>Now you ſhall fing for evermore,</l>
+                  <l>And reioyce, and reioyce.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>I can no longer forbear<g ref="char:punc">▪</g>
+                  </l>
+                  <l>But tell you what you are,</l>
+                  <l>And this I do declare,</l>
+                  <l>
+                     <pb n="15" facs="tcp:170150:7"/>And reioyce. and reioyce,</l>
+               </lg>
+               <lg n="22">
+                  <head>22.</head>
+                  <l>But your fighting with the poor,</l>
+                  <l>Ambition is the whore,</l>
+                  <l>I wil deſtroy her ſo ſure,</l>
+                  <l>And reioyce, and reioyce.</l>
+               </lg>
+               <lg n="23">
+                  <head>23.</head>
+                  <l>True love is not ſo blinde,</l>
+                  <l>But to the poor is kinde,</l>
+                  <l>And conſtant is in one minde,</l>
+                  <l>To reioyce, to reioice,</l>
+               </lg>
+               <lg n="24">
+                  <head>24.</head>
+                  <l>All Glory now is mine,</l>
+                  <l>Though they will me confine</l>
+                  <l>Becauſe I caſt out the ſwine,</l>
+                  <l>And reioyce, and reioyce:</l>
+               </lg>
+               <lg n="25">
+                  <head>25.</head>
+                  <l>But this is the ſwines grace,</l>
+                  <l>To confine true love to one place,</l>
+                  <l>while they do run the race,</l>
+                  <l>And thus laugh God in the face;</l>
+                  <l>Now reioyce. now reioyce.</l>
+               </lg>
+               <lg n="26">
+                  <head>26.</head>
+                  <l>But he is luſt and true,</l>
+                  <l>Making all things ſo new,</l>
+                  <l>In ſweetneſs here to view,</l>
+                  <l>And reioyce, and reioyce.</l>
+               </lg>
+               <lg n="27">
+                  <head>27.</head>
+                  <l>Thus heaven and earth is ſhown,</l>
+                  <l>His Glory now is known,</l>
+                  <l>With true love that is his own,</l>
+                  <l>To reioyce, to reioyce.</l>
+               </lg>
+               <lg n="28">
+                  <head>28.</head>
+                  <l>I'le be merry and ſing,</l>
+                  <l>Sorrows away I'le fling,</l>
+                  <l>Now death have loſt her ſting,</l>
+                  <l>I'le reioyce, I'le reioyce.</l>
+               </lg>
+               <lg n="29">
+                  <head>29.</head>
+                  <l>When I am in my throne,</l>
+                  <l>Whoſe glory that is ſhown,</l>
+                  <l>Where's no good nor evil known,</l>
+                  <l>
+                     <pb n="16" facs="tcp:170150:8"/>Then reioyce, then reioyce.</l>
+               </lg>
+               <lg n="30">
+                  <head>30.</head>
+                  <l>This is game of the head,</l>
+                  <l>Sorrows away are fled,</l>
+                  <l>The curſe is almoſt dead,</l>
+                  <l>Now reioyce, now reioyce.</l>
+               </lg>
+               <lg n="31">
+                  <head>31.</head>
+                  <l>For this is his love to us,</l>
+                  <l>To take away the curſe,</l>
+                  <l>Gives us the better for the worſe,</l>
+                  <l>Now reioyce, now reio yce.</l>
+               </lg>
+               <lg n="32">
+                  <head>32.</head>
+                  <l>For he is my loving friend,</l>
+                  <l>with me do not contend,</l>
+                  <l>Makes the ſtouteſt heart to bend,</l>
+                  <l>For he will be the end,</l>
+                  <l>Now reioyce now reioyce.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>The Deſcrptioin of the reſtauration of love.</head>
+               <epigraph>
+                  <q>
+                     <l>Now love<hi>'s</hi> declared,</l>
+                     <l>And wrath<hi>'s</hi> abaſed,</l>
+                  </q>
+               </epigraph>
+               <byline>By <hi>Iames Michel,</hi>
+               </byline>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>Our ioyes now they are come,</l>
+                  <l>And truly they do raign,</l>
+                  <l>It is the Lord Jehovah,</l>
+                  <l>with all his loving train,</l>
+                  <l>He's with his train ſo ſure.</l>
+                  <l>Which now do make me ſee,</l>
+                  <l>It is that virgin pure,</l>
+                  <l>The life that lives in me,</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>His foes are now exalting,</l>
+                  <l>And this makes them ſo ſtout,</l>
+                  <l>But he ſets moſt pure upon them,</l>
+                  <l>And gives the whore the rout,</l>
+                  <l>But this which I do tell you,</l>
+                  <l>I ſpeak unto you all,</l>
+                  <l>I ſee mens Kingdom ſhaking,</l>
+                  <l>Behold how they do fall.</l>
+               </lg>
+               <lg n="3">
+                  <pb n="17" facs="tcp:170150:8"/>
+                  <head>3.</head>
+                  <l>It is his loving kindeneſs</l>
+                  <l>Which doth appear to me,</l>
+                  <l>That I am in his Kingdom</l>
+                  <l>And purely ſet free;</l>
+                  <l>Then this is my beloved,</l>
+                  <l>My own beloved dear.</l>
+                  <l>which liveth in my boſom</l>
+                  <l>A caſting out all fear.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Now fear away is Caſted,</l>
+                  <l>VVhich makes me ſing amain,</l>
+                  <l>The freedom now is pure,</l>
+                  <l>To live in peace again,</l>
+                  <l>This is life ete<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nal,</l>
+                  <l>That glory we enioy,</l>
+                  <l>To live in peace and frience</l>
+                  <l>And ſo to go away</l>
+               </lg>
+            </div>
+            <div type="authors_note">
+               <byline>James Michel.</byline>
+               <p>A Vindication or the verſes following, whereby no man may be trubled at theſe verſes, for he that is trou<g ref="char:EOLhyphen"/>bled wich theſe verſes knows not what he is troubled at for men knowing not the things of the Lord Ieſus, therefore they are troubled to hear them, but indeed they need not be troubled at the things o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God, for mine own part I am not aſhamed of them, but am free to declare them as they are declared in me, for indeed it is thus, men knowing not that the Lord Ie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us is with<g ref="char:EOLhyphen"/>in them, they uſe a forme of praying for him, which the Scripture makes manifeſt and reſtiſies that all men are wicked; and as the Scrio ure ſaith, that the prayers of the wicked are abomination before the face of the Lord, for no man can pray righteouſly, but the prayers of the righteous prevail much, there is no man righteous, no not one,
+<pb n="18" facs="tcp:170150:9"/>neither can one do good, but that good which is done, is done by the righteous man the Lord Jeſus, and therefore I do hold it plainly, that mans prayers can<g ref="char:EOLhyphen"/>not prevail any thing of good, for if a mans prayers were good, then he might prevail much by prayer, but they vaniſh away like a ſhadow, not acting the things which are Royal and truth, therefore according to theſe verſes following, it is plainly to be ſeen what mens prayers are, they are but earth, therefore they need not pray as they do, for they pray for the Lord Ieſus, but they have him already, but in this they cru<g ref="char:EOLhyphen"/>cifie the Lord of life, becauſe they ſee him not; and this earth exalting himſelf ſomthing to be, and all mens prayers are not in force not yet in power, for if they were faithful men, when they pray for rain they ſhould have it, or if they did pray for water to be tur<g ref="char:EOLhyphen"/>ned into wine it ſhould be ſo, but indeed their prayers as the Sripture ſaith <hi>are abomination before the face of the Lord,</hi> whereby reaſon proves it is nothing but earth and from whence they came thither they ſhall return; from the earth they came, and to the earth they ſhall return again: Therefore I declare this unto you, not to read theſe lines in wrath, but read them in love. And ſo I reſt in love at this time.</p>
+            </div>
+            <div type="poem">
+               <byline>JAMES MICHEL,</byline>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>It is my joy, and for to ſee</l>
+                  <l>All thoſe which now are ſet free,</l>
+                  <l>Thoſe are our people to behold,</l>
+                  <l>And live in Sion to be more bold,</l>
+                  <l>Syon it is the pureſt throne,</l>
+                  <l>For there the Lord enioys his own.</l>
+                  <l>This is the truth Ile juſtifie</l>
+                  <l>To ſee what the whore and the world can deny.</l>
+               </lg>
+               <lg n="6">
+                  <pb n="19" facs="tcp:170150:9"/>
+                  <head>6.</head>
+                  <l>For when conceiving in you did begin,</l>
+                  <l>It ſaid that paide was the man of ſinn,</l>
+                  <l>Then be content and reſt on this hour,</l>
+                  <l>For the Lord is working in a light power.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>And this the people cannot ſee,</l>
+                  <l>Tis darkneſs to them and a myſtery,</l>
+                  <l>The Myſtery that you ſhall know,</l>
+                  <l>The light of God will truly ſhow.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>And the people they ſhall ſee,</l>
+                  <l>How pure all ſhall be ſet free;</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>And to this truth I ſhall ſpeak ſtill</l>
+                  <l>And live ſo pure upon Syon hill.</l>
+                  <l>But now theſe words that I ſhall ſay,</l>
+                  <l>For any faith you need not pray.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>For all your praving that is vain,</l>
+                  <l>From whence it came it returns again,</l>
+                  <l>Then be you ſilent for you muſt,</l>
+                  <l>For all your prayers return to the duſt.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Then do hold you that are free,</l>
+                  <l>And for to ſing this harmony</l>
+                  <l>For the Mountains know I do declare,</l>
+                  <l>What all below the Lord God are.</l>
+                  <l>Then ſit you ſtill upon the true throne,</l>
+                  <l>For Syon once ſhall be your own.</l>
+               </lg>
+            </div>
+            <div type="authors_note">
+               <p>Dear friends this is to let you underſtand, the paſſa<g ref="char:EOLhyphen"/>ges I have ſeen in ſome travels, the cruelty of men one towards another, for as <hi>J</hi> paſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d along the Highway, <hi>J</hi> ſee ſome gallants habited inclothing l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke unto Gen<g ref="char:EOLhyphen"/>tlemen, which were uſing violence againſt the poor, taking their eſtates from them, and this cruelly abuſing of them, and robbing them of that which was free for their uſe, and this <hi>J</hi> ſee as <hi>J</hi> travel until I come to my iourneys end, for J have a long Journey to go, as it is
+<pb n="20" facs="tcp:170150:10"/>declared by men, for they ſay it is a great way to Her<g ref="char:EOLhyphen"/>ven, but ſtil I am travelling on the road till come thi<g ref="char:EOLhyphen"/>ther, but when I com thither, there I ſhal find <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eare and reſt but none I do <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nde here amongſt men, for they are apt to backbite one another, even as they have done me <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lredy, indeed if a man peaks what he knows at that they wil be troubled, but touch a gauld horſe on the back and indeed he will ſoon kick, as alſo theſe verſes that follow, do touch the thieves and robbers, but many others may ſeem to take exception, but they need not do it for any thing I know (but if any man be troubled any thing which is written in this Book) be my be guilty of the ſame action of robbing, but if he be guilty he needs no accuſer but his own conſcience, for if he is guilty his conſcience will fly in his face, and bare witneſs againſt him, and therfore he may ſeem to cry out againſt theſe veaſes; who ever are troubled at them, will make themſelves guilty of that fact of rob<g ref="char:EOLhyphen"/>bing but I ſhould very gladly ſee men turn from their darkn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs unto light, and live in true love, ſo turn from their wickedneſs and live.</p>
+            </div>
+            <div type="poem">
+               <byline>Iames Michel.</byline>
+               <p>Who is not aſhamed to declare the truth of the paſſa<g ref="char:EOLhyphen"/>ges which he hath ſeen and do lee, ſo that men may forſake theit cruelty one towards another, and love one another in truth and reallity and ſincerely by the bottom of his heart, and to the heighth and depth of his ſoul to the utmoſt thereof.</p>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>Glorious one now let us be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ogging,</l>
+                  <l>Every true lover in his own way,</l>
+                  <l>Then give vs the ſpiritual fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gging</l>
+                  <l>For we will be merry in Vount <hi>Sian</hi> to day.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Now awake all ye that are Sleepy,</l>
+                  <l>
+                     <pb n="21" facs="tcp:170150:10"/>And do hear the voice of the Lord,</l>
+                  <l>For he is a pulling down allyour Temples,</l>
+                  <l>Religion ſhal be no more your ſtrong Guard.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>You Tyrants, Tyrants, now in the Kingdom,</l>
+                  <l>This mine eyes ſo plainly do ſee,</l>
+                  <l>Then what will be come of all your vain glory</l>
+                  <l>When the poor Captives are trnly ſet free.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Them<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> again turn again</l>
+                  <l>You Theeves and robbers,</l>
+                  <l>A you do plainly appear unto me.</l>
+                  <l>For you are a robbing the poor of this Nation,</l>
+                  <l>And ſo like Tyrants ra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gn go as you be.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Theſe words that I do ſay tis in reioycing</l>
+                  <l>That the Lord Chriſt have ſet me ſo free,</l>
+                  <l>For I my ſelf could not declare it</l>
+                  <l>Not till true reaſon declared in me.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Then leave of Crueity and all your baſeneſs,</l>
+                  <l>Throw down iniuſtice and eaſt away pride,</l>
+                  <l>Then you ſhall be married all in ſweet communion,</l>
+                  <l>When truth ſhal be your own glorious Bride.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>A Diſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ription of love betwixt God and Chriſt The ſpenſe and the world.</head>
+               <head type="sub">Declared and made manifeſt at the time and hou<g ref="char:EOLhyphen"/>when God pleaſed to reveale it in my heart, there one truth cannot be aſhamed; this is written in my heart when the world frownes in madneſs aginſt the Lord Ieſus.</head>
+               <byline>By Iames Michel,</byline>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>His light is in renown this I do ſee,</l>
+                  <l>His light is in renown this I do ſee,</l>
+                  <l>His light is in renown, hereſy muſt go down,</l>
+                  <l>True love ſhall wear the Crown,</l>
+                  <l>'Tis well for me.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="22" facs="tcp:170150:11"/>
+                  <head>2.</head>
+                  <l>Iuſtice now is above, tis ſo to me,</l>
+                  <l>Iuſtice now is above tis ſo to me,</l>
+                  <l>Iuſtice now is above, raigning in true love.</l>
+                  <l>None can harbour the dove</l>
+                  <l>Truly but he.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Some ſaints fit in the throne</l>
+                  <l>With ſuch a grace,</l>
+                  <l>Some ſaints fit in the throne with ſuch a grace.</l>
+                  <l>Some ſaints ſits in the throne, as if it were their own,</l>
+                  <l>But quickly it may be known in every place.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>This true love we would have now for to be,</l>
+                  <l>This true love we would have now for to be,</l>
+                  <l>This true love we would have to be eaſed from a ſlave,</l>
+                  <l>But then to live ſo brave truly with thee.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Tyranny that muſt ſall it doth appear,</l>
+                  <l>Tyranny that muſt fall it doth appear,</l>
+                  <l>Tyranny that muſt fall, we ſhal be merry all.</l>
+                  <l>And then ſhall reioyce withal, ſtand nor in fear.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>A declaration declared in truth being not aſhamed, who is free, to own every line in this book, now <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> name ſuſcribed in two words of truth which will <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his name manifeſt, for truth is never aſhamed of it <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> This is ſpoken by</head>
+               <byline>Iames Michel.</byline>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>God is our joy, God is our reſt,</l>
+                  <l>God is our King</l>
+                  <l>The prince of peace,</l>
+                  <l>This is Gods love to every one,</l>
+                  <l>He ſhed his bloud for all.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>And this by men is not underſtood.</l>
+                  <l>That all are ſaved by his blood,</l>
+                  <l>His blood was the ſacrifice for ſin,</l>
+                  <l>Which men no more ſhould begin.</l>
+               </lg>
+               <lg n="3">
+                  <pb n="14" facs="tcp:170150:11"/>
+                  <head>3.</head>
+                  <l>But Antichriſt in his dark power</l>
+                  <l>Is held up by men now each hour,</l>
+                  <l>I wil diſſolve him with love and peace,</l>
+                  <l>For I live in joy in truth and reſt.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>I am the King that they ſhould ſee.</l>
+                  <l>The Lord omnipotent I be,</l>
+                  <l>That I wil make them</l>
+                  <l>Truly to ſee I am with them.</l>
+                  <l>Now here I be.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>This King of reaſon is my life,</l>
+                  <l>He's taking away envy and ſtrife,</l>
+                  <l>For he goes betwixt the Marrow and the bone</l>
+                  <l>So him and us are all but one.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>He is the life he is the breath,</l>
+                  <l>He is the bones he is the earth,</l>
+                  <l>He is the truth I ſpeak withal,</l>
+                  <l>He is that ſpirit which cannot fall,</l>
+                  <l>He is God, he is all in all.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>For this true love have envy caſt,</l>
+                  <l>And now it is quite at the loſs,</l>
+                  <l>To ſee who now do bare the Croſs,</l>
+                  <l>For now this is true loves own hoſt.</l>
+                  <l>To ſee how ſweetly the curſe is croſt.</l>
+               </lg>
+            </div>
+            <div type="authors_note">
+               <p>Dear hearts, I ſhal let you underſtand in few words, that the fifth ſong in the book, entituled, <hi>the ſinging of praiſes,</hi> was a miſtake in the printing, and therefore I thought good to put it in print again, with ſome ad<g ref="char:EOLhyphen"/>dition to it; and in the 22 ſong, in that book of the ſinging of praiſes, it was not all printed, for the printer had le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t out <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alf of it, whereby many at it are trou<g ref="char:EOLhyphen"/>bled, but let them know what they are troubled at, and ſo let them ſit down in peace,</p>
+               <closer>
+                  <signed>Iames Michel.</signed>
+               </closer>
+            </div>
+            <div type="authors_note">
+               <pb n="24" facs="tcp:170150:12"/>
+               <p>Indeed I am cauſed to write again concerning theſe verſes in this Book which many already have been troubled at, for I know they are a ſtumbling block to the ſtumbler, which is the world, for indeed they do not go as the world would have them to go, but as their cuſtoms is to have verſe to every ones minde, which theſe are contrary to moſt mens mindes, but they are choſen out from their hearts to ly in their way to ſtumble at, who are ready to cath a fall at them, becauſe they are not one with them to their apprehen<g ref="char:EOLhyphen"/>ſion; indeed I do verily beleeve, as to them, they are no verſe, for thoſe that do not enioy them nor live in the ſame light that they are in, cannot make verſe of them but rather would be troubled at them, and cry out a<g ref="char:EOLhyphen"/>gainſt the Author of them, and ſo I ſhal leave them to ſerious conſideration for a cherritable Judgment of them and ſo conclude.</p>
+               <p>To me this is a true return, out of <hi>Aegypt</hi> into <hi>Canaan,</hi> out of trouble into peace, out of darkneſs in<g ref="char:EOLhyphen"/>to light, and out of hel into heaven, and out of ſor<g ref="char:EOLhyphen"/>row into joy, and out of torments into reſt, for peace is my ſalvation,</p>
+               <closer>
+                  <signed>IAMES MICHEL,</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170150:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
